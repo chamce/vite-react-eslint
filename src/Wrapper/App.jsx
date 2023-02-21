@@ -1,10 +1,10 @@
-import "./App.css";
+import "../App.css";
 import { useRef } from "react";
-import { Header } from "./Wrapper/Header";
-import { Center } from "./Wrapper/Center";
-import { Footer } from "./Wrapper/Footer";
-import { SearchBar } from "./Wrapper/SearchBar";
-import { ColorPicker } from "./Wrapper/ColorPicker";
+import { Header } from "./Header";
+import { Center } from "./Center";
+import { Footer } from "./Footer";
+import { SearchBar } from "./SearchBar";
+import { ColorPicker } from "./ColorPicker";
 
 function App({ heading, dashboard }) {
   const footerRef = useRef();
