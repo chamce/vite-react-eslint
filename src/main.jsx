@@ -1,16 +1,16 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-// import { ExampleDashboard } from "./ExampleDashboard";
+// import { Example } from "./components/Example";
 // Colonel's Compass
 // Semester & Refund Deadlines
-import { Dashboard } from "./Dashboard";
-import App from "./Wrapper/App";
+import { Dashboard } from "./components/Dashboard";
+import App from "./wrapper/components/App";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <App
       dashboard={<Dashboard />}
-      heading={"Performance Model"}
+      heading={"Dashboard Heading"}
       department={"Institutional Effectiveness & Research"}
     />
   </React.StrictMode>

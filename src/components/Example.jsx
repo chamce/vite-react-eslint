@@ -74,8 +74,8 @@ const useCsv = (location) => {
 //   });
 // };
 
-export const ExampleDashboard = () => {
-  const data = useCsv("/Data/ExampleData.csv");
+export const Example = () => {
+  const data = useCsv("/data/example.csv");
   const groupedData = useMemo(() => data && getGroupedData(data), [data]);
 
   useEffect(() => {

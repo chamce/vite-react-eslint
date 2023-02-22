@@ -1,4 +1,4 @@
-import "../App.css";
+import "../../style.css";
 import { useRef } from "react";
 import { Header } from "./Header";
 import { Center } from "./Center";

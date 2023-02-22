@@ -1,4 +1,4 @@
-import { useClickOutsideCondensed } from "./useClickOutside";
+import { useClickOutsideCondensed } from "../hooks/useClickOutside";
 
 const submitSearch = (e) => {
   e.preventDefault();

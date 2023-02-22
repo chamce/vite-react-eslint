@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { HexColorPicker } from "react-colorful";
-import { getTextColor } from "./getTextColor";
-import { useClickOutsideCondensed } from "./useClickOutside";
+import { getTextColor } from "../../color-functions";
+import { useClickOutsideCondensed } from "../hooks/useClickOutside";
 
 const useBodyBgColor = (footerRef) => {
   const [color, setColor] = useState(
