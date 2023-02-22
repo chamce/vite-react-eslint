@@ -6,13 +6,19 @@ import { Footer } from "./Footer";
 import { SearchBar } from "./SearchBar";
 import { ColorPicker } from "./ColorPicker";
 
-function App({ heading, dashboard }) {
+function App({ heading, dashboard, department }) {
   const footerRef = useRef();
   const searchBar = <SearchBar />;
   const footer = <Footer footerRef={footerRef} />;
   const colorPicker = <ColorPicker footerRef={footerRef} />;
   const center = <Center heading={heading} children={dashboard} />;
-  const header = <Header colorPicker={colorPicker} searchBar={searchBar} />;
+  const header = (
+    <Header
+      colorPicker={colorPicker}
+      department={department}
+      searchBar={searchBar}
+    />
+  );
 
   return (
     <>

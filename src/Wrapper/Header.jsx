@@ -1,4 +1,4 @@
-export function Header({ colorPicker, searchBar }) {
+export function Header({ colorPicker, searchBar, department }) {
   return (
     <nav
       className="mb-2 mb-sm-3 eastern-header navbar navbar-expand-lg navbar-dark bg-gradient"
@@ -46,7 +46,7 @@ export function Header({ colorPicker, searchBar }) {
               href="https://ir.eku.edu/"
               className="fs-4 eastern-brand-link"
             >
-              Institutional Effectiveness & Research
+              {department}
             </a>
           </div>
         </div>

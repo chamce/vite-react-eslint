@@ -208,7 +208,7 @@ function Page({ portal, heading, target, body, fullscreen }) {
       <div className="row">
         <div className="col p-0"></div>
         <div className="col-7 d-flex align-items-center justify-content-center text-center text-break p-0">
-          <h1 className="mt-5 mb-4 display-4">{heading}</h1>
+          <h1 className="mt-5 mb-4 display-5">{heading}</h1>
         </div>
         <div className="col d-flex align-items-start justify-content-end p-0">
           <button
