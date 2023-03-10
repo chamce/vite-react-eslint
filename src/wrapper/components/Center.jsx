@@ -1,5 +1,5 @@
 import * as portals from "react-reverse-portal";
-import { useEventListener } from "../hooks/useEventListener";
+import { useEventListener } from "../../hooks/useEventListener";
 import {
   useState,
   useMemo,
@@ -185,11 +185,11 @@ const FullscreenModal = ({ heading, modalName, body }) => {
                 aria-label="Close"
               />
             </div>
-            <div className="modal-body">{body}</div>
+            <div className="modal-body bg-light">{body}</div>
             <div className="modal-footer">
               <button
                 type="button"
-                className="btn btn-light border-secondary three-d-btn"
+                className="btn btn-light border-dark three-d-btn"
                 data-bs-dismiss="modal"
               >
                 Close

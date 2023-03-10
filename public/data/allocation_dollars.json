@@ -1,0 +1,632 @@
+{
+  "Adjusted Net General Fund": {
+    "EKU": {
+      "2020-21": [
+        {
+          "institution": "EKU",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2020-21",
+          "Amount": 58103300
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "EKU",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2021-22",
+          "Amount": 60842300
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "EKU",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2022-23",
+          "Amount": 60842300
+        }
+      ]
+    },
+    "KSU": {
+      "2020-21": [
+        {
+          "institution": "KSU",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2020-21",
+          "Amount": 18607700
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "KSU",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2021-22",
+          "Amount": 18235500
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "KSU",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2022-23",
+          "Amount": 18235500
+        }
+      ]
+    },
+    "MoSU": {
+      "2020-21": [
+        {
+          "institution": "MoSU",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2020-21",
+          "Amount": 35644400
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "MoSU",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2021-22",
+          "Amount": 34931500
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "MoSU",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2022-23",
+          "Amount": 34931500
+        }
+      ]
+    },
+    "MuSU": {
+      "2020-21": [
+        {
+          "institution": "MuSU",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2020-21",
+          "Amount": 41381400
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "MuSU",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2021-22",
+          "Amount": 40553800
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "MuSU",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2022-23",
+          "Amount": 40553800
+        }
+      ]
+    },
+    "NKU": {
+      "2020-21": [
+        {
+          "institution": "NKU",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2020-21",
+          "Amount": 46650600
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "NKU",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2021-22",
+          "Amount": 50923600
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "NKU",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2022-23",
+          "Amount": 50923600
+        }
+      ]
+    },
+    "UK": {
+      "2020-21": [
+        {
+          "institution": "UK",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2020-21",
+          "Amount": 167181400
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "UK",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2021-22",
+          "Amount": 184662000
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "UK",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2022-23",
+          "Amount": 184662000
+        }
+      ]
+    },
+    "UofL": {
+      "2020-21": [
+        {
+          "institution": "UofL",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2020-21",
+          "Amount": 122595200
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "UofL",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2021-22",
+          "Amount": 126211600
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "UofL",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2022-23",
+          "Amount": 126211600
+        }
+      ]
+    },
+    "WKU": {
+      "2020-21": [
+        {
+          "institution": "WKU",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2020-21",
+          "Amount": 63846500
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "WKU",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2021-22",
+          "Amount": 67619000
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "WKU",
+          "metric": "Adjusted Net General Fund",
+          "allocation_year": "2022-23",
+          "Amount": 67619000
+        }
+      ]
+    }
+  },
+  "Allocation Dollars": {
+    "EKU": {
+      "2020-21": [
+        {
+          "institution": "EKU",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2020-21",
+          "Amount": 55996900
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "EKU",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2021-22",
+          "Amount": 56391100
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "EKU",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2022-23",
+          "Amount": 56391100
+        }
+      ]
+    },
+    "KSU": {
+      "2020-21": [
+        {
+          "institution": "KSU",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2020-21",
+          "Amount": 13784300
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "KSU",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2021-22",
+          "Amount": 13784300
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "KSU",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2022-23",
+          "Amount": 13784300
+        }
+      ]
+    },
+    "MoSU": {
+      "2020-21": [
+        {
+          "institution": "MoSU",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2020-21",
+          "Amount": 30480300
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "MoSU",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2021-22",
+          "Amount": 30480300
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "MoSU",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2022-23",
+          "Amount": 30480300
+        }
+      ]
+    },
+    "MuSU": {
+      "2020-21": [
+        {
+          "institution": "MuSU",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2020-21",
+          "Amount": 36102600
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "MuSU",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2021-22",
+          "Amount": 36102600
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "MuSU",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2022-23",
+          "Amount": 36102600
+        }
+      ]
+    },
+    "NKU": {
+      "2020-21": [
+        {
+          "institution": "NKU",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2020-21",
+          "Amount": 45505400
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "NKU",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2021-22",
+          "Amount": 46472400
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "NKU",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2022-23",
+          "Amount": 46472400
+        }
+      ]
+    },
+    "UK": {
+      "2020-21": [
+        {
+          "institution": "UK",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2020-21",
+          "Amount": 161041100
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "UK",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2021-22",
+          "Amount": 167662700
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "UK",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2022-23",
+          "Amount": 167662700
+        }
+      ]
+    },
+    "UofL": {
+      "2020-21": [
+        {
+          "institution": "UofL",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2020-21",
+          "Amount": 110881200
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "UofL",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2021-22",
+          "Amount": 113820100
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "UofL",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2022-23",
+          "Amount": 113820100
+        }
+      ]
+    },
+    "WKU": {
+      "2020-21": [
+        {
+          "institution": "WKU",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2020-21",
+          "Amount": 62409900
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "WKU",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2021-22",
+          "Amount": 63167800
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "WKU",
+          "metric": "Allocation Dollars",
+          "allocation_year": "2022-23",
+          "Amount": 63167800
+        }
+      ]
+    }
+  },
+  "Small School Adjustment": {
+    "EKU": {
+      "2020-21": [
+        {
+          "institution": "EKU",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2020-21",
+          "Amount": -4451200
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "EKU",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2021-22",
+          "Amount": -4451200
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "EKU",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2022-23",
+          "Amount": -4451200
+        }
+      ]
+    },
+    "KSU": {
+      "2020-21": [
+        {
+          "institution": "KSU",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2020-21",
+          "Amount": -4451200
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "KSU",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2021-22",
+          "Amount": -4451200
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "KSU",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2022-23",
+          "Amount": -4451200
+        }
+      ]
+    },
+    "MoSU": {
+      "2020-21": [
+        {
+          "institution": "MoSU",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2020-21",
+          "Amount": -4451200
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "MoSU",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2021-22",
+          "Amount": -4451200
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "MoSU",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2022-23",
+          "Amount": -4451200
+        }
+      ]
+    },
+    "MuSU": {
+      "2020-21": [
+        {
+          "institution": "MuSU",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2020-21",
+          "Amount": -4451200
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "MuSU",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2021-22",
+          "Amount": -4451200
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "MuSU",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2022-23",
+          "Amount": -4451200
+        }
+      ]
+    },
+    "NKU": {
+      "2020-21": [
+        {
+          "institution": "NKU",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2020-21",
+          "Amount": -4451200
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "NKU",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2021-22",
+          "Amount": -4451200
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "NKU",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2022-23",
+          "Amount": -4451200
+        }
+      ]
+    },
+    "UK": {
+      "2020-21": [
+        {
+          "institution": "UK",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2020-21",
+          "Amount": -16999300
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "UK",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2021-22",
+          "Amount": -16999300
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "UK",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2022-23",
+          "Amount": -16999300
+        }
+      ]
+    },
+    "UofL": {
+      "2020-21": [
+        {
+          "institution": "UofL",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2020-21",
+          "Amount": -12391500
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "UofL",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2021-22",
+          "Amount": -12391500
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "UofL",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2022-23",
+          "Amount": -12391500
+        }
+      ]
+    },
+    "WKU": {
+      "2020-21": [
+        {
+          "institution": "WKU",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2020-21",
+          "Amount": -4451200
+        }
+      ],
+      "2021-22": [
+        {
+          "institution": "WKU",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2021-22",
+          "Amount": -4451200
+        }
+      ],
+      "2022-23": [
+        {
+          "institution": "WKU",
+          "metric": "Small School Adjustment",
+          "allocation_year": "2022-23",
+          "Amount": -4451200
+        }
+      ]
+    }
+  }
+}

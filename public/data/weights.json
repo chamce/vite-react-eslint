@@ -1,0 +1,134 @@
+{
+  "Bach": [
+    {
+      "Year": "Current",
+      "Model": "Bach",
+      "Funding_Model_Metrics": "Bachelor's Degrees (Normalized)",
+      "Research_Universities": 1.67345,
+      "Comprehensive_Universities": 1,
+      "Percent_of_Allocation": 0.09,
+      "Component_Level_1": "Success",
+      "Component_Level_2": "Outcome Based Components"
+    }
+  ],
+  "BachLI": [
+    {
+      "Year": "Current",
+      "Model": "BachLI",
+      "Funding_Model_Metrics": "Low Income Bachelor's Degrees",
+      "Research_Universities": 2.3512,
+      "Comprehensive_Universities": 1,
+      "Percent_of_Allocation": 0.03,
+      "Component_Level_1": "Success",
+      "Component_Level_2": "Outcome Based Components"
+    }
+  ],
+  "BachStem": [
+    {
+      "Year": "Current",
+      "Model": "BachStem",
+      "Funding_Model_Metrics": "STEM+H Bachelor's Degrees",
+      "Research_Universities": 1.54105,
+      "Comprehensive_Universities": 1,
+      "Percent_of_Allocation": 0.05,
+      "Component_Level_1": "Success",
+      "Component_Level_2": "Outcome Based Components"
+    }
+  ],
+  "BachURM": [
+    {
+      "Year": "Current",
+      "Model": "BachURM",
+      "Funding_Model_Metrics": "URM Bachelor's Degrees",
+      "Research_Universities": 1.22322,
+      "Comprehensive_Universities": 1,
+      "Percent_of_Allocation": 0.03,
+      "Component_Level_1": "Success",
+      "Component_Level_2": "Outcome Based Components"
+    }
+  ],
+  "Costs": [
+    {
+      "Year": "Current",
+      "Model": "Costs",
+      "Funding_Model_Metrics": "Instruction and Student Services Costs",
+      "Research_Universities": 0.90251,
+      "Comprehensive_Universities": 1,
+      "Percent_of_Allocation": 0.1,
+      "Component_Level_1": "Institutional Support",
+      "Component_Level_2": "Operational Support Components"
+    }
+  ],
+  "CreditHrs": [
+    {
+      "Year": "Current",
+      "Model": "CreditHrs",
+      "Funding_Model_Metrics": "Student Credit Hours Earned (Weighted)",
+      "Research_Universities": 1.14208,
+      "Comprehensive_Universities": 1,
+      "Percent_of_Allocation": 0.35,
+      "Component_Level_1": "Credit Hour",
+      "Component_Level_2": "Outcome Based Components"
+    }
+  ],
+  "FTE": [
+    {
+      "Year": "Current",
+      "Model": "FTE",
+      "Funding_Model_Metrics": "FTE Student Enrollment",
+      "Research_Universities": 1.34278,
+      "Comprehensive_Universities": 1,
+      "Percent_of_Allocation": 0.1,
+      "Component_Level_1": "Academic Support",
+      "Component_Level_2": "Operational Support Components"
+    }
+  ],
+  "P30": [
+    {
+      "Year": "Current",
+      "Model": "P30",
+      "Funding_Model_Metrics": "Student Progression (@ 30 Credit Hours)",
+      "Research_Universities": 1.49386,
+      "Comprehensive_Universities": 1,
+      "Percent_of_Allocation": 0.03,
+      "Component_Level_1": "Success",
+      "Component_Level_2": "Outcome Based Components"
+    }
+  ],
+  "P60": [
+    {
+      "Year": "Current",
+      "Model": "P60",
+      "Funding_Model_Metrics": "Student Progression (@ 60 Credit Hours)",
+      "Research_Universities": 1.4532,
+      "Comprehensive_Universities": 1,
+      "Percent_of_Allocation": 0.05,
+      "Component_Level_1": "Success",
+      "Component_Level_2": "Outcome Based Components"
+    }
+  ],
+  "P90": [
+    {
+      "Year": "Current",
+      "Model": "P90",
+      "Funding_Model_Metrics": "Student Progression (@ 90 Credit Hours)",
+      "Research_Universities": 1.56076,
+      "Comprehensive_Universities": 1,
+      "Percent_of_Allocation": 0.07,
+      "Component_Level_1": "Success",
+      "Component_Level_2": "Outcome Based Components"
+    }
+  ],
+  "SqFeet": [
+    {
+      "Year": "Current",
+      "Model": "SqFeet",
+      "Funding_Model_Metrics": "Facilities Square Feet",
+      "Research_Universities": 1.36134,
+      "Comprehensive_Universities": 1,
+      "Percent_of_Allocation": 0.1,
+      "Component_Level_1": "Maintenance & Operations",
+      "Component_Level_2": "Operational Support Components"
+    }
+  ]
+}

@@ -217,3 +217,52 @@ body {
 .three-d-btn.show:not(:active):not(:hover):not(:focus-visible) {
   box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px !important;
 }
+
+.subtle-shadow {
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+.height-350 {
+  height: 350px;
+}
+
+[role="columnheader"],
+[role="gridcell"] {
+  inset-inline-start: unset !important;
+  background-image: var(--bs-gradient) !important;
+}
+
+.dropdown-menu {
+  max-height: 300px;
+  overflow-y: scroll;
+}
+
+@media (max-width: 767px) {
+  .dropdown-menu {
+    font-size: small;
+  }
+}
+
+.update-icon {
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  transition: opacity 0.1s ease-in-out;
+}
+
+.width-fit-content {
+  width: fit-content;
+}
+
+.sticky-top-container {
+  inset-block-start: 0;
+  position: sticky;
+  z-index: 1;
+}
+
+.rdg-cell-frozen-last > .rdg-group-cell-content > .rdg-caret {
+  opacity: 0;
+}
+
+.rdg-cell-frozen-last[role="gridcell"] {
+  cursor: default !important;
+}

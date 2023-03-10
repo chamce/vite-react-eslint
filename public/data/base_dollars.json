@@ -1,0 +1,106 @@
+{
+  "Addition to Base": {
+    "EKU": {
+      "Amount": 0
+    },
+    "KSU": {
+      "Amount": 0
+    },
+    "MoSU": {
+      "Amount": 0
+    },
+    "MuSU": {
+      "Amount": 0
+    },
+    "NKU": {
+      "Amount": 0
+    },
+    "UK": {
+      "Amount": 0
+    },
+    "UofL": {
+      "Amount": 0
+    },
+    "WKU": {
+      "Amount": 0
+    }
+  },
+  "Base": {
+    "EKU": {
+      "Amount": 56391100
+    },
+    "KSU": {
+      "Amount": 13784300
+    },
+    "MoSU": {
+      "Amount": 30480300
+    },
+    "MuSU": {
+      "Amount": 36102600
+    },
+    "NKU": {
+      "Amount": 46472400
+    },
+    "UK": {
+      "Amount": 167662700
+    },
+    "UofL": {
+      "Amount": 113820100
+    },
+    "WKU": {
+      "Amount": 63167800
+    }
+  },
+  "New Model Money": {
+    "EKU": {
+      "Amount": 0
+    },
+    "KSU": {
+      "Amount": 0
+    },
+    "MoSU": {
+      "Amount": 0
+    },
+    "MuSU": {
+      "Amount": 0
+    },
+    "NKU": {
+      "Amount": 0
+    },
+    "UK": {
+      "Amount": 0
+    },
+    "UofL": {
+      "Amount": 0
+    },
+    "WKU": {
+      "Amount": 0
+    }
+  },
+  "Total Base": {
+    "EKU": {
+      "Amount": 56391100
+    },
+    "KSU": {
+      "Amount": 13784300
+    },
+    "MoSU": {
+      "Amount": 30480300
+    },
+    "MuSU": {
+      "Amount": 36102600
+    },
+    "NKU": {
+      "Amount": 46472400
+    },
+    "UK": {
+      "Amount": 167662700
+    },
+    "UofL": {
+      "Amount": 113820100
+    },
+    "WKU": {
+      "Amount": 63167800
+    }
+  }
+}

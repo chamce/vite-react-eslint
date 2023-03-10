@@ -1,13 +1,13 @@
 import { useState, useEffect } from "react";
 import { HexColorPicker } from "react-colorful";
-import { getTextColor } from "../../color-functions";
+import { getTextColor } from "../../js/color-functions";
 import { useClickOutsideCondensed } from "../hooks/useClickOutside";
 
 const useBodyBgColor = (footerRef) => {
   const [color, setColor] = useState(
     window.localStorage.getItem("color")
       ? window.localStorage.getItem("color")
-      : "#cff4fc"
+      : "#cfe2ff"
   );
   const contrast = getTextColor(color).name;
 

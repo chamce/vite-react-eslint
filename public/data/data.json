@@ -1,0 +1,4734 @@
+{
+  "Bachelor Degrees": {
+    "EKU": [
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 2690,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 2634,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 2406,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 2573,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 2648,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "KSU": [
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 212,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 137,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 154,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 315,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 222,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MoSU": [
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1260,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1139,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1153,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1291,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1308,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MuSU": [
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1577,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1659,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1614,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1699,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1678,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "NKU": [
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 2134,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 2222,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 2223,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 2238,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 2218,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UK": [
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2018-19",
+        "Metric_Value": 5105,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2019-20",
+        "Metric_Value": 5202,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2020-21",
+        "Metric_Value": 5011,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2016-17",
+        "Metric_Value": 4642,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2017-18",
+        "Metric_Value": 4956,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UofL": [
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2018-19",
+        "Metric_Value": 3049,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2019-20",
+        "Metric_Value": 3112,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2020-21",
+        "Metric_Value": 2991,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2016-17",
+        "Metric_Value": 3010,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2017-18",
+        "Metric_Value": 3041,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "WKU": [
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 2984,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 3042,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 2843,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 2851,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 3038,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ]
+  },
+  "Credit Hours": {
+    "EKU": [
+      {
+        "metric": "Credit Hours",
+        "Institution": "EKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 337238.5,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "EKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 319817.5,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "EKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 307347,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "EKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 355129,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "EKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 347262,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "KSU": [
+      {
+        "metric": "Credit Hours",
+        "Institution": "KSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 29360.5,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "KSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 31698,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "KSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 32316.5,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "KSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 33577,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "KSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 30841,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MoSU": [
+      {
+        "metric": "Credit Hours",
+        "Institution": "MoSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 163612,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "MoSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 155726,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "MoSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 148071,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "MoSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 171160,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "MoSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 167534,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MuSU": [
+      {
+        "metric": "Credit Hours",
+        "Institution": "MuSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 194335,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "MuSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 192850,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "MuSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 191165,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "MuSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 213743,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "MuSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 202210,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "NKU": [
+      {
+        "metric": "Credit Hours",
+        "Institution": "NKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 292095.25,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "NKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 306525.25,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "NKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 301653.5,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "NKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 292299,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "NKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 285437,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UK": [
+      {
+        "metric": "Credit Hours",
+        "Institution": "UK",
+        "Data_Year": "2018-19",
+        "Metric_Value": 736838,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "UK",
+        "Data_Year": "2019-20",
+        "Metric_Value": 743674,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "UK",
+        "Data_Year": "2020-21",
+        "Metric_Value": 767618,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "UK",
+        "Data_Year": "2016-17",
+        "Metric_Value": 748430,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "UK",
+        "Data_Year": "2017-18",
+        "Metric_Value": 737439,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UofL": [
+      {
+        "metric": "Credit Hours",
+        "Institution": "UofL",
+        "Data_Year": "2018-19",
+        "Metric_Value": 473948.5,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "UofL",
+        "Data_Year": "2019-20",
+        "Metric_Value": 471449.5,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "UofL",
+        "Data_Year": "2020-21",
+        "Metric_Value": 477705.5,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "UofL",
+        "Data_Year": "2016-17",
+        "Metric_Value": 490174,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "UofL",
+        "Data_Year": "2017-18",
+        "Metric_Value": 480355.5,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "WKU": [
+      {
+        "metric": "Credit Hours",
+        "Institution": "WKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 383356.5,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "WKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 362202,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "WKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 350221.5,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "WKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 402703,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours",
+        "Institution": "WKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 394781,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ]
+  },
+  "Credit Hours Weighted": {
+    "EKU": [
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "EKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 495006.0275,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "EKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 466066.4375,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "EKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 454502.39,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "EKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 517365,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "EKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 506874.445,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "KSU": [
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "KSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 34098.67,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "KSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 34499.655,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "KSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 33745.045,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "KSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 41557,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "KSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 38193.255,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MoSU": [
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "MoSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 229624.53,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "MoSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 218224.88,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "MoSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 209668.36,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "MoSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 240829,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "MoSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 234997.52,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MuSU": [
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "MuSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 270903.765,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "MuSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 269670.51,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "MuSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 267772.4,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "MuSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 290582,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "MuSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 274817.975,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "NKU": [
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "NKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 432905.37875,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "NKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 486080.20125,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "NKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 495108.4175,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "NKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 397750,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "NKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 396806.51,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UK": [
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "UK",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1221463.295,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "UK",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1209704.565,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "UK",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1283041.455,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "UK",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1226361,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "UK",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1206206.515,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UofL": [
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "UofL",
+        "Data_Year": "2018-19",
+        "Metric_Value": 893942.52,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "UofL",
+        "Data_Year": "2019-20",
+        "Metric_Value": 890140.3275,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "UofL",
+        "Data_Year": "2020-21",
+        "Metric_Value": 914086.7175,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "UofL",
+        "Data_Year": "2016-17",
+        "Metric_Value": 903747,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "UofL",
+        "Data_Year": "2017-18",
+        "Metric_Value": 902140.025,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "WKU": [
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "WKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 556426.9725,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "WKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 528241.3,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "WKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 513779.1625,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "WKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 566391,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Credit Hours Weighted",
+        "Institution": "WKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 565904.4575,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ]
+  },
+  "Instructional Expenses": {
+    "EKU": [
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "EKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 85330882,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "EKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 79647546,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "EKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 79325338,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "EKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 94275794,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "EKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 92786050,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "KSU": [
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "KSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 10923242,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "KSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 9022473,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "KSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 9022473,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "KSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": null,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "KSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 9621635,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MoSU": [
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "MoSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 41860425,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "MoSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 39873939,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "MoSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 39859691,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "MoSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 49100356,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "MoSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 42673285,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MuSU": [
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "MuSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 61064980,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "MuSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 57728949,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "MuSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 57210365,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "MuSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 74414980,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "MuSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 56419272,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "NKU": [
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "NKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 76092000,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "NKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 89201000,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "NKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 92098000,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "NKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 70746000,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "NKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 78161000,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UK": [
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "UK",
+        "Data_Year": "2018-19",
+        "Metric_Value": 317236000,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "UK",
+        "Data_Year": "2019-20",
+        "Metric_Value": 325829000,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "UK",
+        "Data_Year": "2020-21",
+        "Metric_Value": 300702000,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "UK",
+        "Data_Year": "2016-17",
+        "Metric_Value": 314506000,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "UK",
+        "Data_Year": "2017-18",
+        "Metric_Value": 313654000,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UofL": [
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "UofL",
+        "Data_Year": "2018-19",
+        "Metric_Value": 285802000,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "UofL",
+        "Data_Year": "2019-20",
+        "Metric_Value": 273508000,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "UofL",
+        "Data_Year": "2020-21",
+        "Metric_Value": 241422000,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "UofL",
+        "Data_Year": "2016-17",
+        "Metric_Value": 293306000,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "UofL",
+        "Data_Year": "2017-18",
+        "Metric_Value": 284691000,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "WKU": [
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "WKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 104742858,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "WKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 94455517,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "WKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 86146592,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "WKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 112658083,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Instructional Expenses",
+        "Institution": "WKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 110635746,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ]
+  },
+  "Low Income Bachelor Degrees": {
+    "EKU": [
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1327,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1360,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1249,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1399,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1345,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "KSU": [
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 158,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 103,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 111,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 237,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 164,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MoSU": [
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 708,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 634,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 643,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 743,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 765,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MuSU": [
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 680,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 753,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 737,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 775,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 725,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "NKU": [
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 954,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 947,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 986,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1040,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1005,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UK": [
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1501,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1499,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1452,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1494,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1457,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UofL": [
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1200,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1232,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1204,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1203,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1184,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "WKU": [
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1298,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1339,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1270,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1276,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Low Income Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1358,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ]
+  },
+  "Progress to 30 hours": {
+    "EKU": [
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "EKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1614,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "EKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1527,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "EKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1300,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "EKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1881,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "EKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1751,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "KSU": [
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "KSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 188,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "KSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 253,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "KSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 303,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "KSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 163,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "KSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 172,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MoSU": [
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "MoSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 980,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "MoSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 847,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "MoSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 740,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "MoSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 957,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "MoSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 945,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MuSU": [
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "MuSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 959,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "MuSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 915,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "MuSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 923,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "MuSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1077,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "MuSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 984,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "NKU": [
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "NKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1426,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "NKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1404,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "NKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1168,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "NKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1576,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "NKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1450,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UK": [
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "UK",
+        "Data_Year": "2018-19",
+        "Metric_Value": 3639,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "UK",
+        "Data_Year": "2019-20",
+        "Metric_Value": 3792,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "UK",
+        "Data_Year": "2020-21",
+        "Metric_Value": 3389,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "UK",
+        "Data_Year": "2016-17",
+        "Metric_Value": 3720,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "UK",
+        "Data_Year": "2017-18",
+        "Metric_Value": 3447,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UofL": [
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "UofL",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1940,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "UofL",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1951,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "UofL",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1684,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "UofL",
+        "Data_Year": "2016-17",
+        "Metric_Value": 2064,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "UofL",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1969,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "WKU": [
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "WKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1982,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "WKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1798,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "WKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1825,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "WKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 2051,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 30 hours",
+        "Institution": "WKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 2055,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ]
+  },
+  "Progress to 60 hours": {
+    "EKU": [
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "EKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1851,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "EKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1880,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "EKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1554,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "EKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1947,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "EKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1978,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "KSU": [
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "KSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 179,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "KSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 188,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "KSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 205,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "KSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 196,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "KSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 165,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MoSU": [
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "MoSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 966,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "MoSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1026,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "MoSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 801,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "MoSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 951,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "MoSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 962,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MuSU": [
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "MuSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1069,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "MuSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1083,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "MuSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1016,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "MuSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1041,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "MuSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1162,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "NKU": [
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "NKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1588,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "NKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1502,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "NKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1443,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "NKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1598,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "NKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1579,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UK": [
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "UK",
+        "Data_Year": "2018-19",
+        "Metric_Value": 3780,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "UK",
+        "Data_Year": "2019-20",
+        "Metric_Value": 4192,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "UK",
+        "Data_Year": "2020-21",
+        "Metric_Value": 4102,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "UK",
+        "Data_Year": "2016-17",
+        "Metric_Value": 4112,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "UK",
+        "Data_Year": "2017-18",
+        "Metric_Value": 3930,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UofL": [
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "UofL",
+        "Data_Year": "2018-19",
+        "Metric_Value": 2323,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "UofL",
+        "Data_Year": "2019-20",
+        "Metric_Value": 2359,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "UofL",
+        "Data_Year": "2020-21",
+        "Metric_Value": 2126,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "UofL",
+        "Data_Year": "2016-17",
+        "Metric_Value": 2399,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "UofL",
+        "Data_Year": "2017-18",
+        "Metric_Value": 2423,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "WKU": [
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "WKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 2194,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "WKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 2104,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "WKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1910,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "WKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 2207,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 60 hours",
+        "Institution": "WKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 2194,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ]
+  },
+  "Progress to 90 hours": {
+    "EKU": [
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "EKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 2420,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "EKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 2329,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "EKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 2206,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "EKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 2347,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "EKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 2356,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "KSU": [
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "KSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 159,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "KSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 185,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "KSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 178,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "KSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 254,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "KSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 213,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MoSU": [
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "MoSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1191,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "MoSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1140,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "MoSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1158,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "MoSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1202,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "MoSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1197,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MuSU": [
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "MuSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1518,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "MuSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1396,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "MuSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1446,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "MuSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1546,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "MuSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1420,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "NKU": [
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "NKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1912,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "NKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1992,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "NKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1802,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "NKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1920,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "NKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1916,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UK": [
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "UK",
+        "Data_Year": "2018-19",
+        "Metric_Value": 4629,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "UK",
+        "Data_Year": "2019-20",
+        "Metric_Value": 4703,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "UK",
+        "Data_Year": "2020-21",
+        "Metric_Value": 5011,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "UK",
+        "Data_Year": "2016-17",
+        "Metric_Value": 4654,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "UK",
+        "Data_Year": "2017-18",
+        "Metric_Value": 4781,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UofL": [
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "UofL",
+        "Data_Year": "2018-19",
+        "Metric_Value": 2906,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "UofL",
+        "Data_Year": "2019-20",
+        "Metric_Value": 2912,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "UofL",
+        "Data_Year": "2020-21",
+        "Metric_Value": 2852,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "UofL",
+        "Data_Year": "2016-17",
+        "Metric_Value": 2929,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "UofL",
+        "Data_Year": "2017-18",
+        "Metric_Value": 2838,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "WKU": [
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "WKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 2795,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "WKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 2693,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "WKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 2584,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "WKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 2802,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Progress to 90 hours",
+        "Institution": "WKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 2727,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ]
+  },
+  "STEMH Bachelor Degrees": {
+    "EKU": [
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 873,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 819,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 744,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 840,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 900,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "KSU": [
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 38,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 24,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 30,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 70,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 46,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MoSU": [
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 385,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 336,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 401,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 357,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 384,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MuSU": [
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 730,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 616,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 649,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 710,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 719,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "NKU": [
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 694,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 796,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 814,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 722,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 679,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UK": [
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2018-19",
+        "Metric_Value": 2042,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2019-20",
+        "Metric_Value": 2022,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1931,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1793,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1908,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UofL": [
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1056,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1095,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1085,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2016-17",
+        "Metric_Value": 955,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1038,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "WKU": [
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 867,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 928,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 843,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 825,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "STEMH Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 880,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ]
+  },
+  "Square Feet": {
+    "EKU": [
+      {
+        "metric": "Square Feet",
+        "Institution": "EKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 2387904,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "EKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 2296796,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "EKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 2288276,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "EKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 2512512,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "EKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 2462036,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "KSU": [
+      {
+        "metric": "Square Feet",
+        "Institution": "KSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 673771,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "KSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 673771,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "KSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 673771,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "KSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 673601,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "KSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 673601,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MoSU": [
+      {
+        "metric": "Square Feet",
+        "Institution": "MoSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1388180,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "MoSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1476020,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "MoSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1416689,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "MoSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1352764,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "MoSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1313638,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MuSU": [
+      {
+        "metric": "Square Feet",
+        "Institution": "MuSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 2023418,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "MuSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1977019,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "MuSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1998000,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "MuSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1946908,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "MuSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 2033707,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "NKU": [
+      {
+        "metric": "Square Feet",
+        "Institution": "NKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 1954292,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "NKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 1960980,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "NKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 1862927,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "NKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 1744371,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "NKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 1750576,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UK": [
+      {
+        "metric": "Square Feet",
+        "Institution": "UK",
+        "Data_Year": "2018-19",
+        "Metric_Value": 6337396,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "UK",
+        "Data_Year": "2019-20",
+        "Metric_Value": 6461866,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "UK",
+        "Data_Year": "2020-21",
+        "Metric_Value": 6595582,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "UK",
+        "Data_Year": "2016-17",
+        "Metric_Value": 6244854,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "UK",
+        "Data_Year": "2017-18",
+        "Metric_Value": 6341308,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UofL": [
+      {
+        "metric": "Square Feet",
+        "Institution": "UofL",
+        "Data_Year": "2018-19",
+        "Metric_Value": 3420153,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "UofL",
+        "Data_Year": "2019-20",
+        "Metric_Value": 3431623,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "UofL",
+        "Data_Year": "2020-21",
+        "Metric_Value": 3410996,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "UofL",
+        "Data_Year": "2016-17",
+        "Metric_Value": 3161491,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "UofL",
+        "Data_Year": "2017-18",
+        "Metric_Value": 3180759,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "WKU": [
+      {
+        "metric": "Square Feet",
+        "Institution": "WKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 2542443,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "WKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 2852999,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "WKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 2800389,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "WKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 2164154,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Square Feet",
+        "Institution": "WKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 2542443,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ]
+  },
+  "Student Service Expenses": {
+    "EKU": [
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "EKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 18423658,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "EKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 17603915,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "EKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 17565002,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "EKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 21334050,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "EKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 20099947,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "KSU": [
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "KSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 6126179,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "KSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 8646414,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "KSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 8646414,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "KSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": null,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "KSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 6331605,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MoSU": [
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "MoSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 16794487,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "MoSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 17028535,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "MoSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 16557869,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "MoSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 19151139,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "MoSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 17237164,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MuSU": [
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "MuSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 15537491,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "MuSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 16779482,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "MuSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 14379229,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "MuSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 16808823,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "MuSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 16563970,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "NKU": [
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "NKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 29486000,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "NKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 28722000,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "NKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 26374000,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "NKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 27560000,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "NKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 30215000,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UK": [
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "UK",
+        "Data_Year": "2018-19",
+        "Metric_Value": 45254000,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "UK",
+        "Data_Year": "2019-20",
+        "Metric_Value": 45885000,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "UK",
+        "Data_Year": "2020-21",
+        "Metric_Value": 60661000,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "UK",
+        "Data_Year": "2016-17",
+        "Metric_Value": 39951000,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "UK",
+        "Data_Year": "2017-18",
+        "Metric_Value": 43398000,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UofL": [
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "UofL",
+        "Data_Year": "2018-19",
+        "Metric_Value": 28805000,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "UofL",
+        "Data_Year": "2019-20",
+        "Metric_Value": 29898000,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "UofL",
+        "Data_Year": "2020-21",
+        "Metric_Value": 30187000,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "UofL",
+        "Data_Year": "2016-17",
+        "Metric_Value": 31942000,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "UofL",
+        "Data_Year": "2017-18",
+        "Metric_Value": 28150000,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "WKU": [
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "WKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 31399709,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "WKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 31132377,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "WKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 27014974,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "WKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 33232830,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "Student Service Expenses",
+        "Institution": "WKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 34620206,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ]
+  },
+  "Total FTE": {
+    "EKU": [
+      {
+        "metric": "Total FTE",
+        "Institution": "EKU",
+        "Data_Year": "",
+        "Metric_Value": 12231.88,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": "Fall 2018"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "EKU",
+        "Data_Year": "",
+        "Metric_Value": 11595.8,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": "Fall 2019"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "EKU",
+        "Data_Year": "",
+        "Metric_Value": 11324.0257,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": "Fall 2020"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "EKU",
+        "Data_Year": "",
+        "Metric_Value": 13011.5,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2016"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "EKU",
+        "Data_Year": "",
+        "Metric_Value": 12681.33,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2017"
+      }
+    ],
+    "KSU": [
+      {
+        "metric": "Total FTE",
+        "Institution": "KSU",
+        "Data_Year": "",
+        "Metric_Value": 1236.98,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": "Fall 2018"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "KSU",
+        "Data_Year": "",
+        "Metric_Value": 1390.71,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": "Fall 2019"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "KSU",
+        "Data_Year": "",
+        "Metric_Value": 1629.8752,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": "Fall 2020"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "KSU",
+        "Data_Year": "",
+        "Metric_Value": 1295.8,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2016"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "KSU",
+        "Data_Year": "",
+        "Metric_Value": 1361.91,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2017"
+      }
+    ],
+    "MoSU": [
+      {
+        "metric": "Total FTE",
+        "Institution": "MoSU",
+        "Data_Year": "",
+        "Metric_Value": 6263.39,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": "Fall 2018"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "MoSU",
+        "Data_Year": "",
+        "Metric_Value": 5905.55,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": "Fall 2019"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "MoSU",
+        "Data_Year": "",
+        "Metric_Value": 5706.3383,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": "Fall 2020"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "MoSU",
+        "Data_Year": "",
+        "Metric_Value": 6561,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2016"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "MoSU",
+        "Data_Year": "",
+        "Metric_Value": 6404.65,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2017"
+      }
+    ],
+    "MuSU": [
+      {
+        "metric": "Total FTE",
+        "Institution": "MuSU",
+        "Data_Year": "",
+        "Metric_Value": 7254.08,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": "Fall 2018"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "MuSU",
+        "Data_Year": "",
+        "Metric_Value": 7141.24,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": "Fall 2019"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "MuSU",
+        "Data_Year": "",
+        "Metric_Value": 7233.845,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": "Fall 2020"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "MuSU",
+        "Data_Year": "",
+        "Metric_Value": 8256.2,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2016"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "MuSU",
+        "Data_Year": "",
+        "Metric_Value": 7623.4,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2017"
+      }
+    ],
+    "NKU": [
+      {
+        "metric": "Total FTE",
+        "Institution": "NKU",
+        "Data_Year": "",
+        "Metric_Value": 11033.83,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": "Fall 2018"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "NKU",
+        "Data_Year": "",
+        "Metric_Value": 11250,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": "Fall 2019"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "NKU",
+        "Data_Year": "",
+        "Metric_Value": 11270.878,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": "Fall 2020"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "NKU",
+        "Data_Year": "",
+        "Metric_Value": 11287.4,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2016"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "NKU",
+        "Data_Year": "",
+        "Metric_Value": 11071.64,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2017"
+      }
+    ],
+    "UK": [
+      {
+        "metric": "Total FTE",
+        "Institution": "UK",
+        "Data_Year": "",
+        "Metric_Value": 28351.76,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": "Fall 2018"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "UK",
+        "Data_Year": "",
+        "Metric_Value": 28569.69,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": "Fall 2019"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "UK",
+        "Data_Year": "",
+        "Metric_Value": 28669.7441,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": "Fall 2020"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "UK",
+        "Data_Year": "",
+        "Metric_Value": 28765,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2016"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "UK",
+        "Data_Year": "",
+        "Metric_Value": 28536.16,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2017"
+      }
+    ],
+    "UofL": [
+      {
+        "metric": "Total FTE",
+        "Institution": "UofL",
+        "Data_Year": "",
+        "Metric_Value": 18154.9,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": "Fall 2018"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "UofL",
+        "Data_Year": "",
+        "Metric_Value": 17911.78,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": "Fall 2019"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "UofL",
+        "Data_Year": "",
+        "Metric_Value": 18344.0281,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": "Fall 2020"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "UofL",
+        "Data_Year": "",
+        "Metric_Value": 18746,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2016"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "UofL",
+        "Data_Year": "",
+        "Metric_Value": 18340.81,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2017"
+      }
+    ],
+    "WKU": [
+      {
+        "metric": "Total FTE",
+        "Institution": "WKU",
+        "Data_Year": "",
+        "Metric_Value": 14108.04,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": "Fall 2018"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "WKU",
+        "Data_Year": "",
+        "Metric_Value": 13343.92,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": "Fall 2019"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "WKU",
+        "Data_Year": "",
+        "Metric_Value": 13295.3944,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": "Fall 2020"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "WKU",
+        "Data_Year": "",
+        "Metric_Value": 15131.8,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2016"
+      },
+      {
+        "metric": "Total FTE",
+        "Institution": "WKU",
+        "Data_Year": "",
+        "Metric_Value": 14695.89,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2017"
+      }
+    ]
+  },
+  "UG FTE": {
+    "EKU": [
+      {
+        "metric": "UG FTE",
+        "Institution": "EKU",
+        "Data_Year": "",
+        "Metric_Value": 10847.51,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": "Fall 2018"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "EKU",
+        "Data_Year": "",
+        "Metric_Value": 10275.72,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": "Fall 2019"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "EKU",
+        "Data_Year": "",
+        "Metric_Value": 9954.1151,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": "Fall 2020"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "EKU",
+        "Data_Year": "",
+        "Metric_Value": 11539.2,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2016"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "EKU",
+        "Data_Year": "",
+        "Metric_Value": 11272.68,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2017"
+      }
+    ],
+    "KSU": [
+      {
+        "metric": "UG FTE",
+        "Institution": "KSU",
+        "Data_Year": "",
+        "Metric_Value": 1168.07,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": "Fall 2018"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "KSU",
+        "Data_Year": "",
+        "Metric_Value": 1305.38,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": "Fall 2019"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "KSU",
+        "Data_Year": "",
+        "Metric_Value": 1541.5422,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": "Fall 2020"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "KSU",
+        "Data_Year": "",
+        "Metric_Value": 1187.8,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2016"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "KSU",
+        "Data_Year": "",
+        "Metric_Value": 1253.08,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2017"
+      }
+    ],
+    "MoSU": [
+      {
+        "metric": "UG FTE",
+        "Institution": "MoSU",
+        "Data_Year": "",
+        "Metric_Value": 5834.89,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": "Fall 2018"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "MoSU",
+        "Data_Year": "",
+        "Metric_Value": 5529.55,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": "Fall 2019"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "MoSU",
+        "Data_Year": "",
+        "Metric_Value": 5340.0874,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": "Fall 2020"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "MoSU",
+        "Data_Year": "",
+        "Metric_Value": 6076.6,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2016"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "MoSU",
+        "Data_Year": "",
+        "Metric_Value": 5940.05,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2017"
+      }
+    ],
+    "MuSU": [
+      {
+        "metric": "UG FTE",
+        "Institution": "MuSU",
+        "Data_Year": "",
+        "Metric_Value": 6495.08,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": "Fall 2018"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "MuSU",
+        "Data_Year": "",
+        "Metric_Value": 6369.08,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": "Fall 2019"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "MuSU",
+        "Data_Year": "",
+        "Metric_Value": 6380.6796,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": "Fall 2020"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "MuSU",
+        "Data_Year": "",
+        "Metric_Value": 7282.2,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2016"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "MuSU",
+        "Data_Year": "",
+        "Metric_Value": 6853.57,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2017"
+      }
+    ],
+    "NKU": [
+      {
+        "metric": "UG FTE",
+        "Institution": "NKU",
+        "Data_Year": "",
+        "Metric_Value": 9369.72,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": "Fall 2018"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "NKU",
+        "Data_Year": "",
+        "Metric_Value": 9034.65,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": "Fall 2019"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "NKU",
+        "Data_Year": "",
+        "Metric_Value": 8696.3554,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": "Fall 2020"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "NKU",
+        "Data_Year": "",
+        "Metric_Value": 10066.2,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2016"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "NKU",
+        "Data_Year": "",
+        "Metric_Value": 9817.6,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2017"
+      }
+    ],
+    "UK": [
+      {
+        "metric": "UG FTE",
+        "Institution": "UK",
+        "Data_Year": "",
+        "Metric_Value": 21164.69,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": "Fall 2018"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "UK",
+        "Data_Year": "",
+        "Metric_Value": 21290.95,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": "Fall 2019"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "UK",
+        "Data_Year": "",
+        "Metric_Value": 20978.7587,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": "Fall 2020"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "UK",
+        "Data_Year": "",
+        "Metric_Value": 21634.2,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2016"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "UK",
+        "Data_Year": "",
+        "Metric_Value": 21457.33,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2017"
+      }
+    ],
+    "UofL": [
+      {
+        "metric": "UG FTE",
+        "Institution": "UofL",
+        "Data_Year": "",
+        "Metric_Value": 12788.87,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": "Fall 2018"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "UofL",
+        "Data_Year": "",
+        "Metric_Value": 12522.29,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": "Fall 2019"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "UofL",
+        "Data_Year": "",
+        "Metric_Value": 12562.2901,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": "Fall 2020"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "UofL",
+        "Data_Year": "",
+        "Metric_Value": 13314,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2016"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "UofL",
+        "Data_Year": "",
+        "Metric_Value": 12915.14,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2017"
+      }
+    ],
+    "WKU": [
+      {
+        "metric": "UG FTE",
+        "Institution": "WKU",
+        "Data_Year": "",
+        "Metric_Value": 12685.87,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": "Fall 2018"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "WKU",
+        "Data_Year": "",
+        "Metric_Value": 12024.34,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": "Fall 2019"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "WKU",
+        "Data_Year": "",
+        "Metric_Value": 12000.2307,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": "Fall 2020"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "WKU",
+        "Data_Year": "",
+        "Metric_Value": 13496.6,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2016"
+      },
+      {
+        "metric": "UG FTE",
+        "Institution": "WKU",
+        "Data_Year": "",
+        "Metric_Value": 13197.26,
+        "Allocation_Year": "",
+        "Data_Fall": "Fall 2017"
+      }
+    ]
+  },
+  "URM Bachelor Degrees": {
+    "EKU": [
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 249,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 284,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 262,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 213,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "EKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 271,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "KSU": [
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 157,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 105,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 124,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 182,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "KSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 136,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MoSU": [
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 101,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 73,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 70,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 105,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "MoSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 79,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "MuSU": [
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 144,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 183,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 146,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 174,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "MuSU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 159,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "NKU": [
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 256,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 253,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 304,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 246,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "NKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 237,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UK": [
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2018-19",
+        "Metric_Value": 740,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2019-20",
+        "Metric_Value": 777,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2020-21",
+        "Metric_Value": 734,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2016-17",
+        "Metric_Value": 594,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "UK",
+        "Data_Year": "2017-18",
+        "Metric_Value": 661,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "UofL": [
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2018-19",
+        "Metric_Value": 553,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2019-20",
+        "Metric_Value": 646,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2020-21",
+        "Metric_Value": 644,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2016-17",
+        "Metric_Value": 577,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "UofL",
+        "Data_Year": "2017-18",
+        "Metric_Value": 557,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ],
+    "WKU": [
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2018-19",
+        "Metric_Value": 383,
+        "Allocation_Year": "2020-21",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2019-20",
+        "Metric_Value": 386,
+        "Allocation_Year": "2021-22",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2020-21",
+        "Metric_Value": 388,
+        "Allocation_Year": "2022-23",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2016-17",
+        "Metric_Value": 310,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      },
+      {
+        "metric": "URM Bachelor Degrees",
+        "Institution": "WKU",
+        "Data_Year": "2017-18",
+        "Metric_Value": 347,
+        "Allocation_Year": "",
+        "Data_Fall": ""
+      }
+    ]
+  }
+}

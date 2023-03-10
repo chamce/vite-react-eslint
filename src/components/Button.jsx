@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { getButtonPalette } from "../color-functions";
+import { getButtonPalette } from "../js/color-functions";
 import { useMemo } from "react";
 
 const Btn = styled.button(

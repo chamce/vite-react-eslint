@@ -1,0 +1,58 @@
+{
+  "EKU": [
+    {
+      "Institution": "EKU",
+      "Institution_Desc": "Eastern Kentucky University",
+      "Type": "Comprehensive"
+    }
+  ],
+  "KSU": [
+    {
+      "Institution": "KSU",
+      "Institution_Desc": "Kentucky State University",
+      "Type": "Comprehensive"
+    }
+  ],
+  "MoSU": [
+    {
+      "Institution": "MoSU",
+      "Institution_Desc": "Morehead State University",
+      "Type": "Comprehensive"
+    }
+  ],
+  "MuSU": [
+    {
+      "Institution": "MuSU",
+      "Institution_Desc": "Murray State University",
+      "Type": "Comprehensive"
+    }
+  ],
+  "NKU": [
+    {
+      "Institution": "NKU",
+      "Institution_Desc": "Northern Kentucky University",
+      "Type": "Comprehensive"
+    }
+  ],
+  "UK": [
+    {
+      "Institution": "UK",
+      "Institution_Desc": "University of Kentucky",
+      "Type": "Research"
+    }
+  ],
+  "UofL": [
+    {
+      "Institution": "UofL",
+      "Institution_Desc": "University of Louisville",
+      "Type": "Research"
+    }
+  ],
+  "WKU": [
+    {
+      "Institution": "WKU",
+      "Institution_Desc": "Western Kentucky University",
+      "Type": "Comprehensive"
+    }
+  ]
+}
