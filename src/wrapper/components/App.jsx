@@ -18,7 +18,7 @@ function App({ heading, dashboard, department }) {
       />
       <div className="container">
         <div className="row">
-          <div className="col-12 col-xxl-10 offset-xxl-1 dash-shadow bg-light border">
+          <div className="col-12 col-xxl-10 offset-xxl-1 dash-shadow bg-white border">
             <Center heading={heading} children={dashboard} />
           </div>
         </div>

@@ -10,13 +10,14 @@
   },
   "dependencies": {
     "d3": "^7.8.2",
+    "firebase": "^9.17.2",
     "lodash": "^4.17.21",
     "react": "^18.2.0",
     "react-colorful": "^5.6.1",
     "react-data-grid": "^7.0.0-beta.26",
     "react-dom": "^18.2.0",
     "react-reverse-portal": "^2.1.1",
-    "simplebar-react": "^3.2.1",
+    "react-window": "^1.8.8",
     "styled-components": "^5.3.6"
   },
   "devDependencies": {

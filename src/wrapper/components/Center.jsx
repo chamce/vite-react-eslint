@@ -8,6 +8,7 @@ import {
   useRef,
   useLayoutEffect,
 } from "react";
+import { Button } from "./Button";
 
 const resetScrollersByClassName = (
   containerRef,
@@ -185,15 +186,16 @@ const FullscreenModal = ({ heading, modalName, body }) => {
                 aria-label="Close"
               />
             </div>
-            <div className="modal-body bg-light">{body}</div>
+            <div className="modal-body">{body}</div>
             <div className="modal-footer">
-              <button
+              <Button
+                backgroundColor="white"
                 type="button"
-                className="btn btn-light border-dark three-d-btn"
+                className="btn three-d-btn"
                 data-bs-dismiss="modal"
               >
                 Close
-              </button>
+              </Button>
             </div>
           </div>
         </div>
@@ -211,14 +213,15 @@ function Page({ portal, heading, target, body, fullscreen }) {
           <h1 className="mt-5 mb-4 display-5">{heading}</h1>
         </div>
         <div className="col d-flex align-items-start justify-content-end p-0">
-          <button
+          <Button
+            backgroundColor="white"
             type="button"
             data-bs-toggle="modal"
             data-bs-target={target}
-            className="btn btn-light square-button rounded-0"
+            className="btn square-button rounded-0 border-0"
           >
-            <i className="fa-solid fa-expand fa-lg fa-fw"></i>
-          </button>
+            <i className="fa-solid fa-expand d-flex fs-4"></i>
+          </Button>
         </div>
       </div>
       <div

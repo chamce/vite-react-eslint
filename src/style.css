@@ -202,7 +202,7 @@ body {
 }
 
 .square-button {
-  padding: var(--bs-btn-padding-x) var(--bs-btn-padding-x);
+  padding: 1rem;
 }
 
 .go-back-btn {
@@ -211,7 +211,7 @@ body {
 }
 
 .three-d-btn:not(:active):not(:hover):not(:focus-visible) {
-  box-shadow: #00000066 0px 2px 4px -2px, #00000033 0px -3px 0px inset !important;
+  box-shadow: #00000066 0px 0.5px 4px, #00000033 0px -3px 0px inset !important;
 }
 
 .three-d-btn.show:not(:active):not(:hover):not(:focus-visible) {
@@ -219,8 +219,7 @@ body {
 }
 
 .subtle-shadow {
-  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
-    rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+  box-shadow: #3c40434d 0px 1px 2px 0px, #3c404326 0px 1px 3px 1px;
 }
 
 .height-350 {
@@ -244,8 +243,7 @@ body {
   }
 }
 
-.update-icon {
-  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+.opacity-transition {
   transition: opacity 0.1s ease-in-out;
 }
 
@@ -265,4 +263,12 @@ body {
 
 .rdg-cell-frozen-last[role="gridcell"] {
   cursor: default !important;
+}
+
+.outline-primary {
+  outline: 1px solid #0d6efd;
+}
+
+.outline-offset-1 {
+  outline-offset: -1px;
 }
